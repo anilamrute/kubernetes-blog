@@ -1,5 +1,8 @@
 # Kubernetes Components: Worker/Data Plane and Master/Control Plane
 
+![Diagram](K8s.png)
+
+
 ## Worker/Data Plane Components:
 1. **Kubelet**: Ensures pods are always running and provides information if there’s a failure.
 2. **Kube-proxy**: Handles networking, IP addresses, and load balancing.
