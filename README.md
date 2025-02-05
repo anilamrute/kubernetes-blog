@@ -1,6 +1,6 @@
 # Kubernetes Components: Worker/Data Plane and Master/Control Plane
 
-![Diagram](K8s.png)
+![Diagram](K8s.drawio.png)
 
 
 ## Worker/Data Plane Components:
